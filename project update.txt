@@ -1,0 +1,36 @@
+Xpath problem slove {Log in}
+
+12-05-2023
+
+NEW test :
+
+product search filter
+add to cart product delete
+PRODUCT WISHLIST 
+PRODUCT LINK SHARE
+DELIVARY PICKPOINT SELETE
+WISHLIST PRODUCT DELETE
+payment- invalid card number
+place order
+product search filter
+specific product add email
+DELIVARY PICKPOINT SELETE
+payment- valid card number
+My order list
+DELIVARY PICKPOINT SELETE
+
+13-05-2023
+payment COD
+payment- invalid nagad OTP
+payment- valid nagad OTP
+PAYMENT option delete
+ORDER CANCEL
+DARAZ PRODUCT TRACKING
+DARAZ RETURN PRODUCT
+DARAZ REVIEW PRODUCT
+ORDER CANCEL
+payment bkash
+payment bkash invalid otp
+payment rocket invalid otp
+payment rocket valid otp
+sign up-same number account
